@@ -9,4 +9,3 @@ Here is what i'm working on.
 - 💬 Ask me about anything
 - 📫 How to reach me: [Gmail](philfives@gmail.com)
 - ⚡ Fun fact: I played soccer professionally in Sweden and I was also VP of the table tennis team in Highschool
--->
