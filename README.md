@@ -8,6 +8,5 @@ Here is what i'm working on.
 - 🤔 I’m looking for help with AWS and Postgres
 - 💬 Ask me about anything
 - 📫 How to reach me: [Gmail](philfives@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I was VP of table tennis team in Highschool
+- ⚡ Fun fact: I played soccer professionally in Sweden and I was also VP of the table tennis team in Highschool
 -->
