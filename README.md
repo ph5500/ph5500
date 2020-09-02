@@ -2,8 +2,6 @@
 
 Here is what i'm working on.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Human Rights First and Top Coaches
 - 🌱 I’m currently learning Vue.js and React
 - 👯 I’m looking to collaborate on Vue.js and React
