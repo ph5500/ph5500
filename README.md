@@ -2,7 +2,7 @@
 
 Here is what i'm working on.
 
-- 🔭 I’m currently working on Human Rights First, Top Coaches, and also contributing to the Ethereum ecosystem
+- 🔭 I’m currently working on Top Coaches and also contributing to the Ethereum ecosystem
 - 🌱 I’m currently learning Vue.js and React
 - 👯 I’m looking to collaborate on Vue.js and React
 - 🤔 I’m looking for help with AWS and Postgres
